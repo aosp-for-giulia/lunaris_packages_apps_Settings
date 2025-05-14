@@ -281,4 +281,8 @@
     <string name="one_time_data_limit_when_exceeded">When exceeded</string>
     <string name="one_time_data_limit_turn_off_notify">Turn off and notify</string>
     <string name="one_time_data_limit_notify_only">Notify only</string>
+
+    <!-- High touch rate -->
+    <string name="touch_rate_title">Increase touch polling rate</string>
+    <string name="touch_rate_summary">Improves touch response by utilizing a higher polling rate</string>
 </resources>
